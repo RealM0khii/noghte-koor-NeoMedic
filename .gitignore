@@ -1,0 +1,9 @@
+# Secret answer notes
+code.md
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

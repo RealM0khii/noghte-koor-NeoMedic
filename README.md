@@ -5,10 +5,11 @@
   
   <br/><br/>
 
-  [![Event](https://img.shields.io/badge/رویداد-نقطه_کور-b91c1c?style=for-the-badge)](https://github.com/RealM0khii)
-  [![Organizer](https://img.shields.io/badge/برگزارکننده-انجمن_علمی_نئومدیک-0f172a?style=for-the-badge)](https://github.com/RealM0khii)
-  [![Field](https://img.shields.io/badge/محوریت-پزشکی_قانونی-7f1d1d?style=for-the-badge)](https://github.com/RealM0khii)
-  [![Stack](https://img.shields.io/badge/تکنولوژی-HTML5_|_CSS3_|_Vanilla_JS-0284c7?style=for-the-badge)](https://github.com/RealM0khii)
+  [![Event](https://img.shields.io/badge/رویداد-نقطه_کور-b91c1c?style=for-the-badge)](https://github.com/RealM0khii/noghte-koor-NeoMedic)
+  [![Organizer](https://img.shields.io/badge/برگزارکننده-انجمن_خلاقیت_و_کارآفرینی_نئومدیک-0f172a?style=for-the-badge)](https://github.com/RealM0khii/noghte-koor-NeoMedic)
+  [![Developer](https://img.shields.io/badge/طراح_و_توسعه_دهنده-علی_مختاری-10b981?style=for-the-badge)](https://github.com/RealM0khii)
+  [![Field](https://img.shields.io/badge/محوریت-پزشکی_قانونی-7f1d1d?style=for-the-badge)](https://github.com/RealM0khii/noghte-koor-NeoMedic)
+  [![Stack](https://img.shields.io/badge/تکنولوژی-HTML5_|_CSS3_|_Vanilla_JS-0284c7?style=for-the-badge)](https://github.com/RealM0khii/noghte-koor-NeoMedic)
 
   <p align="center">
     <b>صفحه وب تعاملی و ترمینال رمزگشایی پرونده جنایی برای مسابقه دانشجویی پزشکی قانونی</b><br/>
@@ -20,7 +21,7 @@
 
 ## 📌 درباره رویداد
 
-«**نقطه کور**» اولین سری از رویدادهای پرونده ویژه است که توسط **انجمن علمی دانشجویی نئومدیک (NEOMEDIC)** با محوریت پزشکی قانونی برگزار می‌شود. در این مسابقه، ۶ تیم از دانشجویان با بررسی گزارش اولیه یک پرونده قتل و تحلیل سرنخ‌ها و شواهد آزمایشگاهی به رقابت می‌پردازند تا ابعاد پنهان ماجرا را آشکار سازند.
+«**نقطه کور**» اولین سری از رویدادهای پرونده ویژه است که توسط **انجمن خلاقیت و کارآفرینی نئومدیک (NEOMEDIC)** در دانشکده پزشکی دانشگاه علوم پزشکی اصفهان با محوریت پزشکی قانونی برگزار می‌شود. در این مسابقه، ۶ تیم از دانشجویان با بررسی گزارش اولیه یک پرونده قتل و تحلیل سرنخ‌ها و شواهد آزمایشگاهی به رقابت می‌پردازند تا ابعاد پنهان ماجرا را آشکار سازند.
 
 این پروژه، وب‌اپلیکیشن اختصاصی مرحله نهایی / مرحله رمزگشایی پرونده است که شرکت‌کنندگان برای گشودن قفل شواهد و دسترسی به اطلاعات محرمانه بعدی باید رمز آن را کشف و وارد نمایند.
 
@@ -111,8 +112,10 @@ $$\mathbf{Be} + \mathbf{Ca} + \mathbf{Re} + \mathbf{F} + \mathbf{U} + \mathbf{Li
 
 ---
 
-## 👥 برگزارکننده و طراحان
+## 👥 شناسنامه رویداد و عوامل اجرایی
 
-- **رویداد:** پرونده ویژه «نقطه کور»
-- **برگزارکننده:** انجمن علمی دانشجویی نئومدیک (NEOMEDIC)
-- **دانشکده:** معاونت فرهنگی دانشجویی دانشکده پزشکی
+- **رویداد:** اولین سری از رویدادهای پرونده ویژه: «نقطه کور»
+- **برگزارکننده:** انجمن خلاقیت و کارآفرینی نئومدیک (NEOMEDIC)
+- **دانشکده و دانشگاه:** دانشکده پزشکی دانشگاه علوم پزشکی اصفهان (با همکاری معاونت فرهنگی دانشجویی دانشکده پزشکی)
+- **تاریخ و زمان برگزاری:** یکشنبه ۲۴ آبان ماه • ساعت ۱۴:۰۰ الی ۱۸:۰۰
+- **طراح و توسعه‌دهنده وب‌اپلیکیشن (صفحه HTML):** [علی مختاری](https://github.com/RealM0khii) (Ali Mokhtari)

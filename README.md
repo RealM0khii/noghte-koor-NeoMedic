@@ -104,7 +104,7 @@ $$\mathbf{Be} + \mathbf{Ca} + \mathbf{Re} + \mathbf{F} + \mathbf{U} + \mathbf{Li
 
 1. ریپازیتوری را دانلود یا کلون کنید:
    ```bash
-   git clone https://github.com/RealM0khii/noghte-koor.git
+   git clone https://github.com/RealM0khii/noghte-koor-NeoMedic.git
    ```
 2. فایل `index.html` را در هر مرورگری (Chrome، Edge، Firefox، Safari) باز کنید.
 3. تمام امکانات (شامل صدا، فونت، پوستر و انیمیشن‌ها) به شکل **کاملاً آفلاین** کار خواهند کرد.
